@@ -25,18 +25,3 @@ This is a Python script that allows you to change the MAC (Media Access Control)
 6. It will generate a random MAC address and display it as the new MAC address.
 
 7. The program will attempt to change the MAC address of the specified interface to the new MAC address. It will display a success message if the MAC address is changed successfully or an error message if the change fails.
-
-## Security Considerations
-
-- Changing the MAC address can have legal and ethical implications. Make sure you have appropriate authorization before using this script.
-- Changing the MAC address of a network interface can affect network connectivity and may require re-establishing network connections.
-
-## Disclaimer
-
-- This script is provided for educational purposes only. It is important to use this tool responsibly and in compliance with the law. The author and OpenAI are not responsible for any misuse or illegal activities performed with this script.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute it according to the terms of the license.
-
-Please exercise caution and responsibility when using this script.
